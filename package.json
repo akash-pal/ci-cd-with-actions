@@ -1,5 +1,5 @@
 {
-  "name": "ci-cd-with-actions",
+  "name": "@akash-pal/ci-cd-with-actions",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
